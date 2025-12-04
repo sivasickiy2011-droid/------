@@ -1,0 +1,1617 @@
+@media (max-width: 1700px) {
+	.hero-title {
+		margin-bottom: 33px;
+		padding-top: 35px;
+		font-size: 50px;
+		max-width: 68%;
+	}
+
+	.hero-descr {
+    margin-bottom: 35px;
+    font-size: 27px;
+    max-width: 40%;
+	}
+
+	.hero-subtitle {
+    margin-bottom: 64px;
+    font-size: 21px;
+    max-width: 82%;
+	}
+
+	.hero {
+    background-size: 100% 76%;
+	}
+
+	.promotions-cadrs {
+    max-width: 1278px;
+		width: 100%;
+		justify-content: space-evenly;
+	}
+
+	.promotions-article {
+    max-width: 355px;
+    min-height: 355px;
+    padding: 22px 81px;
+	}
+}
+
+@media (max-width: 1200px) {
+	.hygiene-top {
+    justify-content: center;
+	}
+
+	.hygiene-top-right {
+    max-width: 728px;
+	}
+
+	.hygiene-top-left {
+    max-width: 771px;
+    padding-left: 0;
+    padding-right: 0;
+	}
+
+	.reviews-item {
+    max-width: 546px;
+    min-height: 405px;
+	}
+
+	.reviews-post-text {
+    font-size: 19px;
+    max-width: 296px;
+    min-height: 236px;
+	}
+
+	.review-date {
+    padding-left: 182px;
+    font-size: 16px;
+	}
+
+	.hygiene-item-bottom:nth-child(2) {
+		left: 0;
+	}
+	
+	.hygiene-item-bottom:nth-child(3) {
+		left: 0;
+	}
+	
+	.hygiene-item-bottom:nth-child(4) {
+		left: 0;
+	}
+
+	.hygiene-bottom-list {
+    max-width: 970px;
+	}
+
+	.services-item {
+		background-size: 170px;
+    background-position: 392px 72px;
+
+	}
+
+	.promotions-article {
+    max-width: 321px;
+    min-height: 321px;
+	}
+
+	.promotions-cadrs {
+    max-width: 100%;
+		gap: 21px;
+    justify-content: space-evenly;
+	}
+}
+
+@media (max-width: 1024px) {
+
+	.container-st {
+		padding: 0 21px;
+	}
+
+	.header {
+    margin-bottom: 19px;
+	}
+
+	.menu-toggle {
+		display: block;
+		max-width: 83px;
+	}
+
+	.header-nav {
+		display: none;
+		flex-direction: column;
+	}
+
+	.header-nav.active {
+		display: block;
+	}
+
+	.nav-list {
+		flex-direction: column;
+	}
+
+	.header-number-phone {
+		font-size: 18px;
+	}
+
+	.header-top {
+    margin-bottom: -24px;
+    padding-top: 11px;
+	}
+
+	.header-list-info {
+    gap: 42px;
+	}
+
+	.logo svg {
+    max-width: 241px;
+	}
+	
+	.header-top-left {
+    gap: 15px;
+	}
+
+	.header-item {
+    max-width: 183px;
+    width: 100%;
+	}
+
+	.header-sosial {
+		display: flex;
+	}
+
+	.header-top-right {
+    gap: 11px;
+		align-items: center;
+	}
+
+	.header-item-phone {
+		max-width: 150px;
+	}
+
+	.hero {
+    margin-bottom: 91px;
+		background-size: 100% 63%;
+
+	}
+
+	.hero-title {
+    margin-bottom: 37px;
+    padding-top: 59px;
+    font-size: 36px;
+    max-width: 64%;
+	}
+
+	.hero-descr {
+    margin-bottom: 40px;
+    font-size: 24px;
+    max-width: 47%;
+	}
+
+	.hero-subtitle {
+    margin-bottom: 0;
+    font-size: 24px;
+    max-width: 47%;
+    line-height: 31px;
+	}
+
+	.hero-sign-up {
+		flex-direction: row;
+		gap: 36px;
+		max-width: 100%;
+		align-items: flex-end;
+	}
+
+	.hero-btn {
+		max-height: 40px;
+		padding: 10px 49px;
+		max-width: 192px;
+	} 
+
+	.hero-contant-st {
+    margin-bottom: 23px;
+	}
+
+	.hero-item {
+		padding-left: 34px;
+		height: 240px;
+		flex-direction: column;
+		align-items: center;
+		gap: 12px;
+	}
+
+	.hero-item-text {
+    font-size: 17px;
+	}
+
+	.hero-item-title {
+    margin-bottom: 26px;
+	}
+
+	.hero-item svg {
+    width: 66px;
+    height: 73px;
+	}
+
+	.section-title {
+    font-size: 36px;
+	}
+	.consultation-descr {
+    font-size: 24px;
+	}
+
+	.consultation-item img {
+		margin-bottom: -16px;
+    height: 242px;
+	}
+
+	.consultation-subtitle {
+    margin-bottom: 31px;
+    font-size: 21px;
+    max-width: 299px;
+    line-height: 30px;
+	}
+
+	.consultation-list {
+    margin-bottom: 26px;
+	}
+
+	.consultation {
+    margin-bottom: 90px;
+	}
+
+	.promotions-descr {
+    max-width: 929px;
+    width: 100%;
+    line-height: 40px;
+    font-size: 25px;
+    font-weight: 600;
+	}
+
+	.promotions-contant-st {
+    margin-bottom: 64px;
+	}
+
+	.promotions-article {
+    padding: 10px 38px;
+    max-width: 246px;
+    min-height: 247px;
+	}
+
+	.services-contant-st {
+    margin-bottom: 38px;
+	}
+
+	.services-item {
+    flex-basis: 100%;
+		padding-left: 27px;
+		padding-top: 27px;
+		padding-bottom: 3px;
+		background-position: 666px 53px;	
+		min-height: 469px;
+	}
+
+	.services-list {
+    row-gap: 32px;
+	}
+
+	.services-block {
+    max-width: 668px;
+	}
+
+	.services-item-descr {
+    max-width: 537px;
+    line-height: 28px;
+	}
+
+	.services {
+    margin-bottom: 76px;
+	}
+
+	.hygiene-top-left {
+		margin-bottom: -28px;
+    max-width: 826px;
+	}
+	.hygiene-title {
+    margin-bottom: 34px;
+    font-size: 27px;
+    max-width: 100%;
+	}
+
+	.video-contant {
+		max-width: 590px;
+	}
+
+	.video-container {
+		margin-bottom: 9px;
+		display: flex;
+		justify-content: center;
+	}
+
+	
+
+	.visually-hidden-btn {
+		display: none;
+	}
+
+	.hygiene-top-right {
+    max-width: 862px;
+    padding-left: 90px;
+	}
+
+	.hygiene-top {
+		margin-bottom: 72px;
+		min-height: 983px;
+    gap: 2px;
+	}
+
+	.hygiene-list {
+    line-height: 46px;
+	}
+
+	.btn-position {
+		position: relative;
+		left: 243px;
+		top: 57px;
+		min-height: 53px;
+	}
+
+	.hygiene-bottom {
+    padding-left: 105px;
+    padding-top: 32px;
+		padding-bottom: 12px;
+		min-height: 652px;
+	}
+
+
+
+	.hygiene-bottom-list {
+		margin-bottom: 23px;
+    gap: 9px;
+	}
+
+	.hygiene-item-descr {
+    padding-right: 28px;
+    max-width: 778px;
+    font-size: 20px;
+	}
+
+	.hygiene-social-item  svg {
+		max-width: 25px;
+	}
+
+	.hygiene-social {
+		margin-bottom: 0;
+    gap: 25px;
+	}
+
+	.hygiene-social-list {
+		margin-bottom: 10px;
+    gap: 4px;
+	}
+
+	.hygiene-link-btn {
+		position: static;
+		right: 0;
+	}
+	.hygiene-link-btn {
+		position: static;
+		left: 0;
+	}
+
+	.hygiene-buttons {
+    gap: 20px;
+    justify-content: center;
+	}
+
+	.doctors-section-descr {
+		margin-bottom: 73px;
+    max-width: 97%;
+    padding-left: 23px;
+	}
+
+	.doctors-right {
+		background-size: 251px 311px;
+		background-position: 88px 127px;
+    max-width: 427px;
+	}	
+
+	.doctors-card {
+		margin-bottom: 3px;
+    padding-top: 1px;
+    padding-right: 18px;
+		padding-left: 3px;
+	}
+
+	.doctors-card-info {
+    margin-bottom: 285px;
+		padding-left: 23px;
+	}
+
+	.doctors-card-name {
+    margin-bottom: 21px;
+    font-size: 24px;
+	}
+
+	.doctors-card-job-subtitle {
+    font-size: 20px;
+	}
+
+	.doctors-card-descr {
+		padding: 23px 29px;
+		max-width: 407px;
+		background: linear-gradient(rgba(243, 254, 254, 0.8), rgba(243, 254, 254, 0));
+	}
+
+	.doctors-left {
+    padding-top: 19px;
+	}
+
+	.doctors-contant-st {
+    gap: 18px;
+	}
+
+	.doctors-avatar-text {
+    padding-right: 19px;
+    max-width: 475px;
+    min-height: 85px;
+		padding-top: 15px;
+	}
+
+	.doctors-name {
+    margin-bottom: 18px;
+    font-size: 20px;
+	}
+
+	.doctors-job-title {
+    font-size: 16px;
+	}
+
+	.best-doctor{
+		font-size: 14px;
+		padding-left: 8px;
+	}
+
+	.assistant-item {
+		width: calc(100% / 3 - 20px); /* Для размещения 3 карточек в ряд */
+	}
+
+	.assistant-descr {
+    margin-bottom: 75px;
+    font-size: 28px;
+    max-width: 90%;
+	}
+
+	.assistant-contant {
+		padding: 0 70px;
+	}
+
+	.assistant-list {
+		row-gap: 45px;
+    justify-content: center;
+	}
+
+	.reviews-descr {
+    max-width: 99%;
+    padding-left: 5px;
+	}
+
+	.reviews-item {
+    max-width: 475px;
+    min-height: 429px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-top: 69px;
+	}
+
+	.reviews-post-text {
+    font-size: 17px;
+    max-width: 238px;
+    min-height: 279px;
+		line-height: 25px;
+	}
+
+	.reviews-avatar img {
+    height: 145px;
+	}
+
+	.review-date {
+    padding-left: 0;
+    position: relative;
+    right: 178px;
+	}
+
+	.reviews {
+    margin-bottom: 143px;
+	}
+
+	.license-descr {
+    max-width: 100%;
+    padding-left: 0; 
+	}
+
+	.list-item-pic {
+    height: 342px;
+	}
+
+	.license {
+    margin-bottom: 107px;
+	}
+
+	.about-us-descr {
+		margin-bottom: 62px;
+    max-width: 100%;
+    padding-left: 0;
+	}
+
+	.aboutus-text {
+    margin-bottom: 34px;
+    font-size: 22px;
+    max-width: 644px;
+	}
+
+	.aboutus-item {
+		max-width: 474px;
+		padding-left: 0;
+    background-image: none;
+		font-size: 15px;
+	}
+
+	.aboutus-list {
+    gap: 20px;
+	}
+
+	.about-us-top {
+    margin-bottom: 9px;
+	}
+
+	.aboutus-card-right {
+    padding-top: 32px;
+	}
+
+	.about-us {
+    margin-bottom: 124px;
+	}
+
+	.sign-up {
+		background-image: url(../img/11111.jpg);
+		background-repeat: no-repeat;
+    background-size: cover;
+		min-height: 470px;
+
+	}
+
+	.sign-up-contant {
+		max-width: 479px;
+    min-height: 447px;
+		padding: 30px 54px;
+    padding-bottom: 24px;
+	}
+
+	.sign-up-title {
+    margin-bottom: 14px;
+    max-width: 380px;
+    font-size: 27px;
+		line-height: 33px;
+	}
+
+	.sign-up-descr {
+    line-height: 27px;
+	}
+
+	.contacts-contant {
+    padding-top: 40px;
+    padding-left: 0;
+	}
+
+	.contacts {
+    min-height: 562px;
+	}
+
+	.footer-logo svg {
+		max-width: 301px;
+	}
+
+	.footer-nav.open {
+		display: flex; /* Отображать меню при нажатии кнопки */
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.footer-nav {
+		display: none;
+	}
+}
+
+@media (max-width: 840px) {
+
+	.hero-title {
+    margin-bottom: 26px;
+    padding-top: 23px;
+    font-size: 30px;
+    max-width: 64%;
+	}
+
+	.hero-descr {
+    margin-bottom: 27px;
+    font-size: 21px;
+    max-width: 53%;
+	}
+
+	.hero-subtitle {
+    font-size: 20px;
+    max-width: 51%;
+	}
+
+	.hero-item-title {
+    margin-bottom: 16px;
+		font-size: 16px;
+	}
+
+
+	.promotions-cadrs {
+    gap: 19px;
+	}
+
+	.promotions-article {
+    padding: 12px 29px;
+    max-width: 224px;
+    min-height: 223px;
+	}
+
+	.promotions {
+    margin-bottom: 52px;
+	}
+
+	.hygiene-bottom {
+    background-size: cover;
+	}
+
+	.video-container {
+    margin-bottom: 35px;
+	}
+
+	.services-item {
+		background-size: 150px;
+    background-position: 537px 99px;
+	}
+
+	.reviews-list {
+    flex-wrap: wrap;
+	}
+
+	.reviews-item {
+    max-width: 732px;
+	}
+
+	.reviews-post-text {
+    max-width: 426px;
+		min-height: 195px;
+		font-size: 19px;
+	}
+
+	.review-date {
+    left: 342px;
+	}
+}
+
+@media (max-width: 768px) {
+	.visually-hidden-768 {
+		display: none;
+	}
+
+	.header-top-left {
+    gap: 66px;
+	}
+
+	.header-sosial-list {
+		flex-direction: column;
+	}
+
+	.header {
+    margin-bottom: 17px;
+	}
+
+	.hero-title {
+		margin-bottom: 47px;
+    padding-top: 27px;
+    font-size: 32px;
+		max-width: 71%;
+	}
+
+	.hero-descr {
+    margin-bottom: 32px;
+    font-size: 24px;
+    max-width: 62%;
+    line-height: 32px;
+	}
+
+	.hero {
+    background-image: url(../img/2222.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+	}
+
+	.hero-sign-up {
+    flex-direction: column;
+		gap: 19px;
+		align-items: flex-start;
+	}
+
+	.hero-subtitle {
+    font-size: 23px;
+    max-width: 63%;
+    line-height: 33px;
+	}
+
+	.hero-btn {
+    position: relative;
+    left: 266px;
+	}
+
+	.hero-contant-st {
+    margin-bottom: 36px;
+	}
+
+	.hero-item {
+    padding-left: 18px;
+    height: 299px;
+    gap: 12px;
+    padding-right: 4px;
+    padding-bottom: 27px;
+	}
+
+	.hero-item svg {
+    width: 73px;
+    height: 88px;
+	}
+
+	.hero-item-title {
+    margin-bottom: 65px;
+    max-width: 180px;
+		font-size: 18px;
+	}
+
+	.hero-item-text {
+    font-size: 16px;
+    text-align: center;
+	}
+
+	.consultation-descr {
+    font-size: 24px;
+    max-width: 83%;
+		text-align: center;
+		line-height: 33px;
+	}
+
+	.consultation-title {
+    margin-bottom: 37px;
+	}
+
+	.consultation-contant-st {
+    margin-bottom: 57px;
+	}
+
+	.consultation-item img {
+    height: 237px;
+    border-radius: 30px;
+	}
+
+	.consultation-subtitle {
+    margin-bottom: 19px;
+    font-size: 15px;
+    max-width: 299px;
+    line-height: 27px;
+	}
+
+	.promotions {
+    margin-bottom: 138px;
+	}
+
+	.promotions-title {
+    margin-bottom: 58px;
+	}
+
+	.video-container {
+    margin-bottom: 2px;
+	}
+
+	.promotions-descr {
+    max-width: 927px;
+    width: 89%;
+    line-height: 38px;
+    font-size: 28px;
+    font-weight: 600;
+    display: inline-block;
+		text-align: center;
+	}
+
+	.promotions-article {
+    padding: 19px 60px;
+    max-width: 342px;
+    min-height: 342px;
+	}
+
+	.services-descr {
+    max-width: 98%;
+    text-align: center;
+    line-height: 37px;
+    font-weight: 600;
+	}
+
+	.services-contant-st {
+    margin-bottom: 34px;
+	}
+
+	.services-block {
+    max-width: 543px;
+    min-height: 476px;
+	}
+
+	.services-item {
+		padding-left: 57px;
+		padding-top: 60px;
+		padding-bottom: 8px;
+    background-position: 507px 189px;
+    min-height: 560px;
+    background-size: 154px 217px;
+	}
+
+	.services-subtitle {
+    margin-bottom: 35px;
+	}
+
+	.services-item-descr {
+		margin-bottom: 39px;
+    max-width: 378px;
+    line-height: 25px;
+	}
+
+	.services-list {
+    row-gap: 28px;
+	}
+
+	.services-card-list {
+    padding: 0 30px;
+    max-width: 499px;
+		min-height: 181px;
+	}
+
+	.services-social {
+    justify-content: center;
+	}
+
+	.services {
+    margin-bottom: 98px;
+	}
+
+	.hygiene-top-left {
+    margin-bottom: 14px;
+		padding-left: 27px;
+    max-width: 929px;
+		min-height: 452px;
+	}
+
+	.hygiene-list {
+    line-height: 43px;
+	}
+
+	.hygiene-title {
+    margin-bottom: 37px;
+    text-align: center;
+    max-width: 99%;
+	}
+
+	.hygiene-subtitle {
+    padding-left: 56px;
+	}
+
+	.hygiene-top-right {
+    padding-left: 31px;
+	}
+
+	.hygiene-item {
+    font-size: 20px;
+	}
+
+	.hygiene-top {
+    margin-bottom: 10px;
+    min-height: 973px;
+	}
+
+	.btn-position {
+    left: 238px;
+    top: 25px;
+	}
+
+	.hygiene-bottom {
+    padding-left: 29px;
+    padding-top: 57px;
+    padding-bottom: 14px;
+		min-height: 660px;
+    padding-right: 28px;
+		background-size: cover;
+	}
+
+	.hygiene-item-descr {
+    font-size: 18px;
+		padding-bottom: 5px;
+	}
+
+	.hygiene-bottom-list {
+    margin-bottom: 38px;
+	}
+
+	.hygiene-item-bottom {
+		min-height: 120px;
+	}
+
+	.hygiene {
+    margin-bottom: 53px;
+	}
+
+	.doctors-section-descr {
+		margin-bottom: 49px;
+    max-width: 98%;
+		line-height: 39px;
+	}
+
+	.doctors-left {
+    padding-top: 0;
+	}
+
+	.doctors-right {
+		background-size: 238px 317px;
+		background-position: 56px 135px;
+    max-width: 350px;
+	}
+
+	.doctors-name {
+    font-size: 19px;
+	}
+
+	.doctors-card-info {
+    margin-bottom: 293px;
+    padding-left: 11px;
+		padding-top: 11px;
+	}
+
+	.doctors-card-name {
+    font-size: 18px;
+	}
+
+	.doctors-card-job-subtitle {
+    font-size: 16px;
+	}
+
+	.doctors-card-descr {
+    padding: 24px 14px;
+	}
+
+	.doctors {
+    margin-bottom: 52px;
+	}
+
+	.assistant-descr {
+    max-width: 100%;
+    line-height: 37px;
+	}
+
+	.reviews-post-text {
+    max-width: 372px;
+		min-height: 122px;
+	}
+
+	.reviews-descr {
+    margin-bottom: 64px;
+	}
+
+	.reviews-item {
+		padding-left: 94px;
+		padding-top: 42px;
+		max-width: 679px;
+		min-height: 299px;
+	}
+
+	.review-date {
+		position: static;
+		display: flex;
+		justify-content: flex-end
+	}
+
+	.reviews {
+    margin-bottom: 179px;
+	}
+
+	.list-item-pic {
+    height: 515px;
+		max-width: 370px;
+	}
+
+	.license-descr {
+    margin-bottom: 63px;
+	}
+
+	.license {
+    margin-bottom: 92px;
+	}
+
+	.about-us-descr {
+    margin-bottom: 54px;
+	}
+
+	.aboutus-text {
+    font-size: 19px;
+		line-height: 28px;
+	}
+
+	.aboutus-item {
+		font-size: 16px;
+		min-height: 116px;
+	}
+
+	.aboutus-card-right {
+    padding-top: 5px;
+	}
+
+	.aboutus-card-right img {
+		max-width: 368px;
+    min-height: 329px;
+	}
+	
+	.about-us-top {
+    margin-bottom: 29px;
+	}
+
+	.aboutus-item-carousel img {
+		max-width: 458px;
+		min-height: 256px;
+	}
+
+	.about-us {
+    margin-bottom: 65px;
+	}
+
+	.sign-up-wrapper {
+		padding-top: 36px;
+    justify-content: center;
+	}
+
+	.sign-up-contant {
+    padding: 30px 47px;
+	}
+
+	.sign-up-descr {
+    font-weight: 600;
+	}
+
+	.contacts-contant {
+		display: flex;
+    justify-content: center;
+	}
+
+	
+	
+	.contacts-container-st {
+    position: relative; /* Родительский контейнер */
+	}
+
+	.contacts-adres {
+    position: absolute;
+    top: -510px;
+    left: 115px;
+    width: 100%;
+    z-index: 1;
+	}
+
+	.contacts {
+    margin-top: 571px;
+	}
+
+	.contacts-container-st {
+			padding-bottom: 50px; 
+	}
+
+
+}
+
+@media (max-width: 740px) {
+	.visually-hidden-740 {
+		display: none;
+	}
+
+
+	.hero-title {
+    margin-bottom: 13px;
+    padding-top: 20px;
+    font-size: 19px;
+    max-width: 68%;
+	}
+
+	.hero-descr {
+    margin-bottom: 10px;
+    font-size: 15px;
+    line-height: 17px;
+		max-width: 59%;
+	}
+
+	.hero-subtitle {
+    font-size: 14px;
+    max-width: 63%;
+    line-height: 19px;
+	}
+
+	.hero {
+    background-size: 100% 29%;
+	}
+
+	.hero-btn {
+		font-size: 11px;
+    min-height: 25px;
+    padding: 3px 29px;
+    max-width: 146px;
+		left: 128px;
+	}
+
+	.hero-item-text {
+    font-size: 15px;
+	}
+
+	.hero-item-title {
+    margin-bottom: 26px;
+	}
+
+	.consultation-item img {
+    height: 150px;
+	}
+
+	.consultation-subtitle {
+    margin-bottom: 4px;
+    font-size: 13px;
+    line-height: 14px;
+    min-height: 65px;
+	}
+
+	.consultation-text {
+    font-size: 15px;
+	}
+
+	.consultation-item {
+    min-height: 331px;
+	}
+
+	.consultation-btn {
+    padding: 5px 51px;
+    font-size: 17px;
+    max-width: 172px;
+    min-height: 31px;
+	}
+
+	.promotions-cadrs {
+    gap: 19px;
+    flex-wrap: wrap;
+	}
+
+	.contacts-adres {
+    position: static;
+	}
+
+	.contacts {
+    margin-top: 0;
+	}
+
+	.hero-list {
+    gap: 31px;
+		flex-wrap: wrap;
+    justify-content: center;
+	}
+
+	.hero-item-descr {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+}
+
+@media (max-width: 500px) {
+	.visually-hidden-320 {
+		display: none;
+	}
+
+	.btn-position {
+    left: 35px;
+    top: 25px;
+	}
+
+	.hygiene-top-left {
+    padding-left: 0;
+	}
+
+	.consultation-list {
+    flex-wrap: wrap;
+	}
+
+	.consultation-item img {
+    margin-bottom: 17px;
+    height: 150px;
+	}
+
+	.hero-title {
+    margin-bottom: 28px;
+    padding-top: 18px;
+    font-size: 20px;
+    max-width: 94%;
+	}
+
+	.hero-contant-st {
+		margin-bottom: 61px;
+    padding-left: 9px;
+	}
+
+	.hero-descr {
+    margin-bottom: 24px;
+    font-size: 16px;
+    max-width: 88%;
+    line-height: 20px;
+	}
+
+	.hero-subtitle {
+    font-size: 16px;
+    max-width: 77%;
+    line-height: 21px;
+	}
+
+	.promotions-article {
+    min-height: 278px;
+		max-width: 277px;
+	}
+
+	.services-item-descr {
+    min-height: 173px;
+	}
+
+	.services-item {
+    padding-left: 15px;
+    padding-top: 27px;
+	}
+
+	.video-contant {
+    max-width: 278px;
+    height: 200px;
+	}
+
+	.hygiene-top-left {
+    min-height: 363px;
+	}
+
+}
+
+@media (max-width: 320px) {
+	.visually-hidden-320 {
+		display: none;
+	}
+
+	.container-st {
+    padding: 0 15px;
+	}
+
+	.menu-toggle svg {
+    height: 75px;
+    max-width: 71px;
+	}
+
+	.header-top {
+    margin-bottom: -24px;
+    padding-top: 0;
+	}
+
+	.header {
+    height: 113px;
+	}
+
+	.hero-title {
+    margin-bottom: 28px;
+    padding-top: 18px;
+    font-size: 20px;
+    max-width: 94%;
+	}
+
+	.hero-contant-st {
+		margin-bottom: 61px;
+    padding-left: 9px;
+	}
+
+	.hero-descr {
+    margin-bottom: 24px;
+    font-size: 16px;
+    max-width: 88%;
+    line-height: 20px;
+	}
+
+	.hero-subtitle {
+    font-size: 16px;
+    max-width: 77%;
+    line-height: 21px;
+	}
+
+	.hero-btn {
+    left: 40px;
+    padding: 4px 20px;
+    max-width: 191px;
+    font-size: 18px;
+    min-height: 40px;
+	}
+
+	.hero-sign-up {
+    gap: 32px;
+	}
+
+	.hero-list {
+    flex-wrap: wrap;
+		gap: 3px;
+	}
+
+	.hero-item-text {
+    font-size: 16px;
+    max-width: 99%;
+    line-height: 22px;
+	}
+
+	.hero-item svg {
+    width: 65px;
+    height: 63px;
+	}
+	.hero-item {
+    height: 300px;
+    padding-top: 33px;
+    gap: 29px;
+    padding-left: 16px;
+    padding-right: 5px;
+    padding-bottom: 9px;
+    max-width: 227px;
+	}
+
+	.hero-item-descr {
+		text-align: center;
+	}
+
+	.hero-item-title {
+    margin-bottom: 66px;
+	}
+
+	.hero-list {
+    justify-content: center;
+		gap: 14px;
+	}
+
+	.section-title {
+    margin-bottom: 21px;
+    font-size: 20px;
+    max-width: 90%;
+	}
+
+	.consultation-contant-st {
+    margin-bottom: 36px;
+	}
+
+	.consultation-descr {
+    font-size: 16px;
+    max-width: 96%;
+    line-height: 19px;
+	}
+	.consultation-list {
+		margin-bottom: -5px;
+    flex-wrap: wrap;
+		gap: 24px;
+		justify-content: space-evenly;
+	}
+
+
+	.hero {
+		margin-bottom: 73px;
+    background-blend-mode: lighten;
+    background-color: rgba(255, 255, 255, 0.7);
+    background-position: top center;
+    block-size: cover;
+    background-size: 100% 35%;
+}
+
+	.consultation-item {
+		min-height: 379px;
+		max-width: 233px;
+	}
+
+	.consultation-item img {
+    margin-bottom: 13px;
+    height: 57%;
+    width: 99%;
+    padding-left: 0;
+    border-radius: 23px;
+	}
+
+	
+
+	.consultation-text {
+    font-size: 19px;
+	}
+
+	.consultation-subtitle {
+    margin-bottom: 16px;
+    font-size: 17px;
+    line-height: 17px;
+    min-height: 37px;
+    max-width: 269px;
+    letter-spacing: 0;
+	}
+
+	.consultation-btn {
+    padding: 7px 71px;
+    font-size: 24px;
+    max-width: 279px;
+    min-height: 60px;
+	}
+
+	.consultation {
+    margin-bottom: 58px;
+	}
+
+	.promotions-descr {
+    font-size: 17px;
+    line-height: 29px;
+	}
+
+	.promotions-title {
+		margin-bottom: 21px;
+	}
+
+	.promotions-contant-st {
+    margin-bottom: 26px;
+	}
+	
+	.promotions-article {
+    padding: 10px 55px;
+    max-width: 280px;
+    min-height: 280px;
+	}
+
+	.promotions-btn {
+    padding: 3px 14px;
+    font-size: 20px;
+    min-height: 39px;
+	}
+
+	.promotions {
+    margin-bottom: 103px;
+	}
+
+	.services-descr {
+    max-width: 89%;
+    line-height: 26px;
+    font-size: 18px;
+	}
+
+	.services-title {
+    margin-bottom: 29px;
+	}
+
+	.services-contant-st {
+    margin-bottom: 29px;
+	}
+
+	.services-item {
+    padding-left: 28px;
+    padding-top: 31px;
+    background-position: 208px -2px;
+    max-width: 281px;
+		min-height: 741px;
+    background-size: 65px 111px;
+	}
+
+	.services-subtitle {
+    margin-bottom: 23px;
+    font-size: 20px;
+    max-width: 188px;
+	}
+
+	.services-item-descr {
+    min-height: 219px;
+    max-width: 214px;
+    line-height: 25px;
+    font-size: 17px;
+    margin-bottom: 11px;
+	}
+
+	.services-item-list {
+    font-size: 18px;
+    max-width: 280px;
+		line-height: 25px;
+	}
+
+	.services-block {
+    max-width: 280px;
+    min-height: 342px;
+	}
+
+	.services-card-list {
+    padding: 0 27px;
+    min-height: 224px;
+    margin-bottom: 69px;
+	}
+
+	.services-link {
+    font-size: 20px;
+    max-width: 194px;
+    min-height: 41px;
+    padding: 8px 38px;
+	}
+
+	.services-button {
+    flex-direction: column;
+	}
+
+	.services {
+    margin-bottom: 59px;
+	}
+
+	.services-list {
+		row-gap: 29px;
+	}
+	
+	.hygiene-title {
+    margin-bottom: 10px;
+    font-size: 21px;
+    max-width: 92%;
+    line-height: 28px;
+	}
+
+	
+
+	.hygiene-subtitle {
+    margin-bottom: 6px;
+    font-size: 14px;
+    text-align: left;
+    padding-left: 0;
+    max-width: 80%;
+	}
+
+
+
+	.video-contant {
+    max-width: 281px;
+    height: 155px;
+	}
+
+	.hygiene-top-left {
+		padding-left: 0;
+		min-height: 138px;
+		margin-bottom: 24px;
+	}
+
+	
+
+	.hygiene-item {
+		font-size: 17px;
+		line-height: 29px;
+	}
+
+	.hygiene-top {
+    min-height: 443px;
+	}
+
+	.hygiene-top-right {
+		padding-left: 31px;
+		min-height: 622px;
+	}
+
+	.btn-position {
+    left: 8px;
+    top: 23px;
+	}
+}
+
+
+
+
+
+
+
+
